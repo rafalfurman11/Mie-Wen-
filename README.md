@@ -1,2 +1,2 @@
-# Mie-Wen-
+# Miec Wene
 Automations for Mieć Wenę
